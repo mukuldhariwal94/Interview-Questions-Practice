@@ -22,13 +22,14 @@ I highly recommend him for starters since he has strong explanation before divin
 #### Linked List
 [2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t=1s)
 #### Stacks and Queues
-
+[5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU&t=956s)
 #### Trees
 
 ### Bit Manipulation
 
 ### Dynamic Programming
-[3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc)
+[3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
+[4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64&t=337s)
 
 ### Miscellaneous
 [1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)
