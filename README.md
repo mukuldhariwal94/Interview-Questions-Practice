@@ -20,18 +20,25 @@ I highly recommend him for starters since he has strong explanation before divin
 ### Data Structures
 
 #### Linked List
-[2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t=1s)
+[2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t=1s)<br>
 #### Stacks and Queues
-[5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU&t=956s)
+[5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU&t=956s)<br>
 #### Trees
-
+[6][Binary Search Tree](https://www.youtube.com/watch?v=dB9aikwZttY&t=28s)<br>
 ### Bit Manipulation
 
 ### Dynamic Programming
 [3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
-[4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64&t=337s)
+[4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64&t=337s)<br>
 
 ### Miscellaneous
-[1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)
+[1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)<br>
+[7] [Anagrams](https://www.youtube.com/watch?v=6W_Fve7qIe4&t=624s)<br>
+[8] [String Compression](https://www.youtube.com/watch?v=XMKMgzU1uiw&t=1s)<br>
 
 ## Resources
+[Byte By Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w/featured)
+
+
+## Things I picked Up on way
+* Size of char is 1 byte ~ 8 bits ~ (2^8)256 values
