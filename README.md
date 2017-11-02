@@ -21,10 +21,12 @@ I highly recommend him for starters since he has strong explanation before divin
 
 #### Linked List
 [2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t=1s)<br>
+[10] [Split a Linked List](https://www.youtube.com/watch?v=lMxYBLqt1Mg)
 #### Stacks and Queues
 [5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU&t=956s)<br>
 #### Trees
 [6][Binary Search Tree](https://www.youtube.com/watch?v=dB9aikwZttY&t=28s)<br>
+[11] [Tree Level Order](https://www.youtube.com/watch?v=eltLoCIDIes&t=552s)
 ### Bit Manipulation
 
 ### Dynamic Programming
@@ -35,6 +37,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)<br>
 [7] [Anagrams](https://www.youtube.com/watch?v=6W_Fve7qIe4&t=624s)<br>
 [8] [String Compression](https://www.youtube.com/watch?v=XMKMgzU1uiw&t=1s)<br>
+[9] [Kth Most Frequent String](https://www.youtube.com/watch?v=HlBG2O8ydhw&t=1183s) REDO - MAJOR REDO <br/>
+
 
 ## Resources
 [Byte By Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w/featured)
