@@ -13,3 +13,14 @@ recursion with mnemonization ( far more efficient) -
 
 ##### Best Approach
 Dynamic Programming
+
+
+##Permutations
+##### Familiarity Rating 5
+##### Things to ask before diving into problem
+* What is the input? Strings are way easier to implement that int
+
+##### Acceptable approach
+Recursion
+
+##### Best Approach

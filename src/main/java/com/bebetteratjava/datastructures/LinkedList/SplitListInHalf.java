@@ -11,7 +11,7 @@ public class SplitListInHalf {
         int data;
     }
 
-    public static Node listInHalf(Node head){
+    public static Node listInGreaterFirstHalf(Node head){
         if(head == null || head.next ==null){
             throw new IllegalArgumentException("List not big enough to split");
         }
@@ -19,13 +19,27 @@ public class SplitListInHalf {
         Node runner = head.next;
         while (runner!=null && runner.next != null){
             follower = follower.next;
-            runner = runner.next;
-            if(runner == null){
-                break;
-            }
-            runner = runner.next;
+            runner = runner.next.next;
         }
 
+        Node newHead = follower.next;
+        follower.next = null;
+
+        return newHead;
+    }
+
+    public static Node listInHalfSmallerFirstHalf(Node head){
+        if(head == null || head.next ==null){
+            throw new IllegalArgumentException("List not big enough to split");
+        }
+        Node follower = head;
+        Node runner = head;
+        while (runner!=null && runner.next != null){
+            runner = runner.next.next;
+            if(runner.next!= null){
+                follower = follower.next;
+            }
+        }
         Node newHead = follower.next;
         follower.next = null;
 
@@ -48,7 +62,7 @@ public class SplitListInHalf {
         n4.next = n5;
         n5.data = 5;
 
-        Node newHead = listInHalf(n1);
+        Node newHead = listInHalfSmallerFirstHalf(n1);
         Node curr = newHead;
         while (curr!=null){
             System.out.print(curr.data);
