@@ -8,3 +8,22 @@
 ##### Acceptable approach
 
 ##### Best Approach
+
+
+##Rotate Bits
+##### Familiarity Rating 8
+##### Things to ask before diving into problem
+* Do we want to rotate left or rotate right?
+
+##### Acceptable approach
+
+##### Best Approach
+
+##Gray Number
+##### Familiarity Rating 7
+##### Things to ask before diving into problem
+
+##### Acceptable approach
+
+##### Best Approach
+

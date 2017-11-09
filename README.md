@@ -23,19 +23,30 @@ I highly recommend him for starters since he has strong explanation before divin
 [2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t)<br>
 [10] [Split a Linked List](https://www.youtube.com/watch?v=lMxYBLqt1Mg) <br>
 [14] [Palindromes](https://www.youtube.com/watch?v=Os5FM4KQtxw&t) REDO STACK PART
+
 #### Stacks and Queues
 [5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU)<br>
+[20] [Stack from Queues](https://www.youtube.com/watch?v=Qk7obcDReHE)
+
 #### Trees
 [6][Binary Search Tree](https://www.youtube.com/watch?v=dB9aikwZttY)<br>
-[11] [Tree Level Order](https://www.youtube.com/watch?v=eltLoCIDIes)
+[11] [Tree Level Order](https://www.youtube.com/watch?v=eltLoCIDIes)<br>
+[18] [Balanced Binary Tree](https://www.youtube.com/watch?v=nOcFiGl5Vy4)<br>
+[24] [Longest Consecutive Branch](https://www.youtube.com/watch?v=r2Vn6ztdSP0)
+
 #### Arrays 1D & 2D
-[12] [N Stacks](https://www.youtube.com/watch?v=DxW7VAsdX0o) REDO
+[12] [N Stacks](https://www.youtube.com/watch?v=DxW7VAsdX0o) REDO <br>
+[15] [Three Sum](https://www.youtube.com/watch?v=-AMHUdZc9ss)<br>
+[16] [Zero Sum Subarray](https://www.youtube.com/watch?v=hLcYp67wCcM)<br>
+[17] [Merge Arrays](https://www.youtube.com/watch?v=rZ9lcXCWSUg)
 
 ### Bit Manipulation
+[4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
+[5] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs)
+[19] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)
 
 ### Dynamic Programming
 [3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
-[4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
 [13] [Permutations](https://www.youtube.com/watch?v=IPWmrjE1_MU) I DONT GET IT YET
 
 ### Miscellaneous
@@ -51,3 +62,8 @@ I highly recommend him for starters since he has strong explanation before divin
 
 ## Things I picked Up on way
 * Size of char is 1 byte ~ 8 bits ~ (2^8)256 values
+* Sorting a map based on its value
+* How to implement a Queue in java.
+* For a number to be odd its first bit will be 1 in binary form (i.e 9 ~ 001001)
+* (X) & (X-1) == 0 if X is a power of 2 ( X = 2^n [1,2,4,8,16,32....]) 
+* We can check size of queue/stack

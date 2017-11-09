@@ -32,3 +32,17 @@ same as above
 
 #### Lessons Learned
 * How to implement a Queue in java.
+
+
+## Balanced Binary Tree
+##### Familiarity Rating 5
+##### Things to ask before diving into problem
+* What is definition of BST? FYI there are 2 . Here is [example](https://www.youtube.com/watch?v=nOcFiGl5Vy4)
+    1) No two branches in the full tree are more than 1 different
+    2) Given any node in tree the left and right subtree are no more than 1 diff in max height <b>Implementing</b>
+##### Not Acceptable approach
+
+##### Acceptable approach
+
+##### Best Approach
+
