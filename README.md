@@ -31,19 +31,19 @@ I highly recommend him for starters since he has strong explanation before divin
 #### Trees
 [6][Binary Search Tree](https://www.youtube.com/watch?v=dB9aikwZttY)<br>
 [11] [Tree Level Order](https://www.youtube.com/watch?v=eltLoCIDIes)<br>
-[18] [Balanced Binary Tree](https://www.youtube.com/watch?v=nOcFiGl5Vy4)<br>
+[19] [Balanced Binary Tree](https://www.youtube.com/watch?v=nOcFiGl5Vy4)  PEDNING<br>
 [24] [Longest Consecutive Branch](https://www.youtube.com/watch?v=r2Vn6ztdSP0)
 
 #### Arrays 1D & 2D
 [12] [N Stacks](https://www.youtube.com/watch?v=DxW7VAsdX0o) REDO <br>
-[15] [Three Sum](https://www.youtube.com/watch?v=-AMHUdZc9ss)<br>
-[16] [Zero Sum Subarray](https://www.youtube.com/watch?v=hLcYp67wCcM)<br>
-[17] [Merge Arrays](https://www.youtube.com/watch?v=rZ9lcXCWSUg)
+[16] [Three Sum](https://www.youtube.com/watch?v=-AMHUdZc9ss)<br>
+[17] [Zero Sum Subarray](https://www.youtube.com/watch?v=hLcYp67wCcM)<br>
+[18] [Merge Arrays](https://www.youtube.com/watch?v=rZ9lcXCWSUg)
 
 ### Bit Manipulation
 [4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
-[5] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs)
-[19] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)
+[15] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs)
+[20] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)
 
 ### Dynamic Programming
 [3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
