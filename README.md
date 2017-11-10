@@ -23,6 +23,7 @@ I highly recommend him for starters since he has strong explanation before divin
 [2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t)<br>
 [10] [Split a Linked List](https://www.youtube.com/watch?v=lMxYBLqt1Mg) <br>
 [14] [Palindromes](https://www.youtube.com/watch?v=Os5FM4KQtxw&t) REDO STACK PART
+[21] [Print Reversed Linked List](https://www.youtube.com/watch?v=IR2X5Mw3StY)
 
 #### Stacks and Queues
 [5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU)<br>
