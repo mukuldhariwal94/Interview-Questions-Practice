@@ -33,6 +33,21 @@ same as above
 #### Lessons Learned
 * How to implement a Queue in java.
 
+## Longest Consecutive Branch
+##### Familiarity Rating 6
+##### Things to ask before diving into problem
+* What data does the tree consist of ?
+* what do you mean by consecutive  ? 123 or 321
+##### Acceptable approach
+1) Using recursion we will navigate the tree <br>
+In method signature we will pass the next node & prev value & prev length <br>
+If next node is +1 of prev we call recursively both left and right subtree with length + 1<br>
+find the max of returned value and assign that as max<br>
+Otherwise we call recursively left and right og the  node with length 1 (new count start)<br>
+compare this with the prev lenght and return the max value
+##### Best Approach
+above
+
 
 ## Balanced Binary Tree
 ##### Familiarity Rating 5
@@ -45,4 +60,6 @@ same as above
 ##### Acceptable approach
 
 ##### Best Approach
+
+
 

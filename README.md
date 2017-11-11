@@ -27,7 +27,8 @@ I highly recommend him for starters since he has strong explanation before divin
 
 #### Stacks and Queues
 [5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU)<br>
-[20] [Stack from Queues](https://www.youtube.com/watch?v=Qk7obcDReHE)
+[20] [Stack from Queues](https://www.youtube.com/watch?v=Qk7obcDReHE)<br>
+[23] [Sort Stacks](https://www.youtube.com/watch?v=nll-b4GeiX4)<br>
 
 #### Trees
 [6][Binary Search Tree](https://www.youtube.com/watch?v=dB9aikwZttY)<br>
@@ -43,12 +44,13 @@ I highly recommend him for starters since he has strong explanation before divin
 
 ### Bit Manipulation
 [4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
-[15] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs)
+[15] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs) <br>
 [20] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)
 
 ### Dynamic Programming
 [3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
-[13] [Permutations](https://www.youtube.com/watch?v=IPWmrjE1_MU) I DONT GET IT YET
+[13] [Permutations](https://www.youtube.com/watch?v=IPWmrjE1_MU) I DONT GET IT YET<br>
+[22] [Longest Common Substring](https://www.youtube.com/watch?v=aVFWW3pBQFo) REDO <br>
 
 ### Miscellaneous
 [1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)<br>
@@ -68,3 +70,4 @@ I highly recommend him for starters since he has strong explanation before divin
 * For a number to be odd its first bit will be 1 in binary form (i.e 9 ~ 001001)
 * (X) & (X-1) == 0 if X is a power of 2 ( X = 2^n [1,2,4,8,16,32....]) 
 * We can check size of queue/stack
+* Inside a method any changes to input object persists but if we swap the parameter object that does not persist after method is returned 
