@@ -55,11 +55,28 @@ above
 * What is definition of BST? FYI there are 2 . Here is [example](https://www.youtube.com/watch?v=nOcFiGl5Vy4)
     1) No two branches in the full tree are more than 1 different
     2) Given any node in tree the left and right subtree are no more than 1 diff in max height <b>Implementing</b>
-##### Not Acceptable approach
-
 ##### Acceptable approach
 
 ##### Best Approach
 
+## Tree to Linked List
+##### Familiarity Rating 7
+##### Things to ask before diving into problem
+* Check how we want to convert it to a tree? left to right, in order etc..
+* is the tree going to be balanced? for optimization
+* If any problem is Doubly linked list consider it being circular 
+
+##### Acceptable approach
+* Traverse the tree till you reach end <br>
+for every node initially make it circular to itself i.e left and right point to itself<br>
+combine the left tree of that node to node<br>
+take the partial combined and combine right subtree to it<br>
+return the node back up the stack
+
+    * Combining two subtree
+        * Point to remember is that left of any list will be pointing to right most node in list due to it being circular
+
+##### Best Approach
+above
 
 
