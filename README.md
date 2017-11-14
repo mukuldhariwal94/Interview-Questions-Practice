@@ -30,38 +30,51 @@ I highly recommend him for starters since he has strong explanation before divin
 [20] [Stack from Queues](https://www.youtube.com/watch?v=Qk7obcDReHE)<br>
 [23] [Sort Stacks](https://www.youtube.com/watch?v=nll-b4GeiX4)<br>
 
+
 #### Trees
 [6][Binary Search Tree](https://www.youtube.com/watch?v=dB9aikwZttY)<br>
 [11] [Tree Level Order](https://www.youtube.com/watch?v=eltLoCIDIes)<br>
 [19] [Balanced Binary Tree](https://www.youtube.com/watch?v=nOcFiGl5Vy4)  PEDNING<br>
-[24] [Longest Consecutive Branch](https://www.youtube.com/watch?v=r2Vn6ztdSP0)
-[26] [Tree to Linked List](https://www.youtube.com/watch?v=Dte6EF1nHNo)
+[24] [Longest Consecutive Branch](https://www.youtube.com/watch?v=r2Vn6ztdSP0)<br>
+[26] [Tree to Linked List](https://www.youtube.com/watch?v=Dte6EF1nHNo)<br>
 
 #### Arrays 1D & 2D
 [12] [N Stacks](https://www.youtube.com/watch?v=DxW7VAsdX0o) REDO <br>
 [16] [Three Sum](https://www.youtube.com/watch?v=-AMHUdZc9ss)<br>
 [17] [Zero Sum Subarray](https://www.youtube.com/watch?v=hLcYp67wCcM)<br>
-[18] [Merge Arrays](https://www.youtube.com/watch?v=rZ9lcXCWSUg)
+[18] [Merge Arrays](https://www.youtube.com/watch?v=rZ9lcXCWSUg)<br>
+[29] [Matrix Search](https://www.youtube.com/watch?v=bK7BCWICvpQ)
 
 ### Bit Manipulation
 [4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
 [15] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs) <br>
-[20] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)
+[20] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)<br>
+[30] [Swap Variables](https://www.youtube.com/watch?v=DtnH3V_Vjek)<br>
+[31] [Reverse Stack](https://www.youtube.com/watch?v=dQsZP8UvHVk)
 
 ### Dynamic Programming
-[3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
+
 [13] [Permutations](https://www.youtube.com/watch?v=IPWmrjE1_MU) I DONT GET IT YET<br>
 [22] [Longest Common Substring](https://www.youtube.com/watch?v=aVFWW3pBQFo) REDO <br>
+
+### Recursion
+[3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
+[27] [Fibonacci Number](https://www.youtube.com/watch?v=Nki9hhW-tAI)
+
 
 ### Miscellaneous
 [1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)<br>
 [7] [Anagrams](https://www.youtube.com/watch?v=6W_Fve7qIe4)<br>
 [8] [String Compression](https://www.youtube.com/watch?v=XMKMgzU1uiw)<br>
 [9] [Kth Most Frequent String](https://www.youtube.com/watch?v=HlBG2O8ydhw) REDO - MAJOR REDO <br/>
+[28] [Clock Angle](https://www.youtube.com/watch?v=LFAhxzqvyps)
 
+### Software Design
+[25][Line Intersection](https://www.youtube.com/watch?v=OOtD38U5VWk) NEED TO DO<br>
 
 ## Resources
 [Byte By Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w/featured)
+
 
 
 ## Things I picked Up on way

@@ -25,3 +25,14 @@ Recursion
 
 ##### Best Approach
 
+##Fibonacci Number
+##### Familiarity Rating 8
+##### Things to ask before diving into problem
+* what is size of input? cause if input is big enough int or long may not be big enough to store the answer
+
+##### Acceptable approach
+1) Recursion
+2) Recursion with memoziation
+
+##### Best Approach
+approach 2.

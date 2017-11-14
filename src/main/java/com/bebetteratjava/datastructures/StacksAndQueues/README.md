@@ -39,4 +39,18 @@ either works depending on use case
 * Once the new stack has no element ( > or <) temp then push that to stack
 
 ##### Best Approach
+above
 
+##Reverse Stack
+##### Familiarity Rating 7
+##### Things to ask before diving into problem
+* can we use temp variables if not data structures
+* Do we have to use existing stack implementation or make our own stack implementation
+fyi : Problem is super easy if we implement stack
+
+##### Acceptable approach
+1) Pop elements from the stack starting from the bottom of stack<br>
+for each elements from bottom insert it back in stack at the very bottom everytime.
+
+##### Best Approach
+above

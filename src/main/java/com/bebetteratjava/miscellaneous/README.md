@@ -64,4 +64,15 @@ Need to find one as the above one has flaws.
 ##### Lessons Learned:
 * Learned about keySey and how to sort on key in hashmap
 
+##Clock Angle
+##### Familiarity Rating 8
+##### Things to ask before diving into problem
+* How do we want the angle to be represented in radians,degree?
+* How accurate should the difference be ?do we consider the change in hour hand during the hour or min
+* which angle are we returning? smalled angle(acute or obtuse)
+ 
+##### Acceptable approach
+##### Best Approach
+##### Lessons Learned:
+* type casting can you cause issue if constants are of int type for double type calculations
 

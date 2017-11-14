@@ -104,4 +104,28 @@ array element and copy the larger
 ##### TODO 
 Merge Sort full implementation <br>
 Work of figuring use case of if and while in head<br>
-&& and  || in head
+also usecase for && and  || in head
+
+
+##Merge Arrays
+##### Familiarity Rating 7
+
+##### Things to ask before diving into problem
+* what elements are in array and how is it sorted
+* How to handle duplicate elements in array (if location of element is needed)
+
+##### Not Acceptable approach
+Brute force since the rows and columns are also sorted.
+
+##### Acceptable approach
+1) do binary search on each row in matrix. Runtime 0(mlogn) ( m is row , n is no of columns)
+2) have two binary searches for row and column . a bit complicated and hard to implement.
+3) have a pointer at end of row and if number is greater than row then skip the row.<br>
+If the nbr is less than last value in row then decrement the pointer to move the columns until nbr is found<br>
+take precautions for array out of bounds for row and column
+
+##### Best Approach
+3rd approach.
+
+##### TODO 
+Find the location of an element in sorted matrix which can hve duplicates
