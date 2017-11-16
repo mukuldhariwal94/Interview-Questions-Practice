@@ -36,3 +36,12 @@ Recursion
 
 ##### Best Approach
 approach 2.
+
+
+##String Deletion
+##### Familiarity Rating 6
+##### Things to ask before diving into problem
+
+##### Acceptable approach
+
+##### Best Approach

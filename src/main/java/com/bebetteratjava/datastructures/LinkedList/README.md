@@ -66,3 +66,18 @@ then it means list was palindrome
 
 ##### Best Approach
 depends on size of list
+
+
+##Dedup Linked List
+##### Familiarity Rating 8
+##### Things to ask before diving into problem
+* Which duplicate needs to be removed the first occurrence or later occurrence?
+* Can we use external data structures?
+* What is stored in the linked List
+
+##### Acceptable approach
+1) Using external data structure
+2) Without using external data structure
+
+##### Best Approach
+either works a small twise can be to not use a prev variable.

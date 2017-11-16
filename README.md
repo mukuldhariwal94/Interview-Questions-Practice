@@ -23,7 +23,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t)<br>
 [10] [Split a Linked List](https://www.youtube.com/watch?v=lMxYBLqt1Mg) <br>
 [14] [Palindromes](https://www.youtube.com/watch?v=Os5FM4KQtxw&t) REDO STACK PART
-[21] [Print Reversed Linked List](https://www.youtube.com/watch?v=IR2X5Mw3StY)
+[21] [Print Reversed Linked List](https://www.youtube.com/watch?v=IR2X5Mw3StY)<br>
+[35] [Dedup Linked List](https://www.youtube.com/watch?v=2X9cdj6Ng0w)
 
 #### Stacks and Queues
 [5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU)<br>
@@ -34,9 +35,10 @@ I highly recommend him for starters since he has strong explanation before divin
 #### Trees
 [6][Binary Search Tree](https://www.youtube.com/watch?v=dB9aikwZttY)<br>
 [11] [Tree Level Order](https://www.youtube.com/watch?v=eltLoCIDIes)<br>
-[19] [Balanced Binary Tree](https://www.youtube.com/watch?v=nOcFiGl5Vy4)  PEDNING<br>
+[19] [Balanced Binary Tree](https://www.youtube.com/watch?v=nOcFiGl5Vy4)<br>
 [24] [Longest Consecutive Branch](https://www.youtube.com/watch?v=r2Vn6ztdSP0)<br>
 [26] [Tree to Linked List](https://www.youtube.com/watch?v=Dte6EF1nHNo)<br>
+[34] [Lowest Common Ancestor](https://www.youtube.com/watch?v=zHP9vhpUKEQ)
 
 #### Arrays 1D & 2D
 [12] [N Stacks](https://www.youtube.com/watch?v=DxW7VAsdX0o) REDO <br>
@@ -50,7 +52,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [15] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs) <br>
 [20] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)<br>
 [30] [Swap Variables](https://www.youtube.com/watch?v=DtnH3V_Vjek)<br>
-[31] [Reverse Stack](https://www.youtube.com/watch?v=dQsZP8UvHVk)
+[31] [Reverse Stack](https://www.youtube.com/watch?v=dQsZP8UvHVk)<br>
+[32] [Sum](https://www.youtube.com/watch?v=te4q1ivGons)
 
 ### Dynamic Programming
 
@@ -59,7 +62,8 @@ I highly recommend him for starters since he has strong explanation before divin
 
 ### Recursion
 [3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
-[27] [Fibonacci Number](https://www.youtube.com/watch?v=Nki9hhW-tAI)
+[27] [Fibonacci Number](https://www.youtube.com/watch?v=Nki9hhW-tAI)<br>
+[33] [String Deletion](https://www.youtube.com/watch?v=A6fDK8Vc7-U) PENDING <br>
 
 
 ### Miscellaneous
@@ -67,10 +71,11 @@ I highly recommend him for starters since he has strong explanation before divin
 [7] [Anagrams](https://www.youtube.com/watch?v=6W_Fve7qIe4)<br>
 [8] [String Compression](https://www.youtube.com/watch?v=XMKMgzU1uiw)<br>
 [9] [Kth Most Frequent String](https://www.youtube.com/watch?v=HlBG2O8ydhw) REDO - MAJOR REDO <br/>
-[28] [Clock Angle](https://www.youtube.com/watch?v=LFAhxzqvyps)
+[28] [Clock Angle](https://www.youtube.com/watch?v=LFAhxzqvyps)<br>
+[36] [Merge K Sorted Arrays](https://www.youtube.com/watch?v=6bvnZzwiKzs) PENDING
 
 ### Software Design
-[25][Line Intersection](https://www.youtube.com/watch?v=OOtD38U5VWk) NEED TO DO<br>
+[25][Line Intersection](https://www.youtube.com/watch?v=OOtD38U5VWk) PENDING<br>
 
 ## Resources
 [Byte By Byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w/featured)
@@ -85,3 +90,4 @@ I highly recommend him for starters since he has strong explanation before divin
 * (X) & (X-1) == 0 if X is a power of 2 ( X = 2^n [1,2,4,8,16,32....]) 
 * We can check size of queue/stack
 * Inside a method any changes to input object persists but if we swap the parameter object that does not persist after method is returned 
+* Loss in precision can happen due to static variables being of diff type

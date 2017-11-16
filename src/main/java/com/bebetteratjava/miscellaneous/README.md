@@ -76,3 +76,22 @@ Need to find one as the above one has flaws.
 ##### Lessons Learned:
 * type casting can you cause issue if constants are of int type for double type calculations
 
+##Merge K Sorted Arrays
+##### Familiarity Rating 
+##### Things to ask before diving into problem
+* Are all the arrays of same length and how many arrays can be present?
+
+##### Acceptable approach
+1) Combine all arrays and sort them after merging all arrays<br>
+Runtime (Kn * log(kn)). This does note leverage fact that arrays are presorted
+2) Create an array of size of no of arrays  to save curr index in each array and increment pointer if element
+is added from given array.<br>
+Runtime (Kn * K). Which is worse than before
+3) Usage of priority queue.
+##### Best Approach
+##### Lessons Learned:
+* Usage of priority queue and how first solution is not always best also sometimes second one also.
+
+
+
+

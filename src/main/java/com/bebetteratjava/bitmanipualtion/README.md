@@ -46,3 +46,15 @@ y = x ^ y [ (x ^ y) ^ y = x]<br>
 x = x ^ y [ (x ^ y) ^ ((x ^ y)^ y ) = y] <br>
 ##### Best Approach
 approach 2 since we do not have be concerned with overflow issue's
+
+##Sum
+##### Familiarity Rating 8
+##### Things to ask before diving into problem
+
+##### Acceptable approach
+<implemented> using  Recursion and while loop <br>
+1) Calculate the partial sum using XOR <br>
+ Calculate the carryover using AND after that left shift by 1.<br>
+ repeat this until carryOver is 0;<br>
+##### Best Approach
+above 
