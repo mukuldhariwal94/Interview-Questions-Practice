@@ -58,3 +58,12 @@ approach 2 since we do not have be concerned with overflow issue's
  repeat this until carryOver is 0;<br>
 ##### Best Approach
 above 
+
+##Big Int Modulus
+##### Familiarity Rating 7
+##### Things to ask before diving into problem
+
+##### Acceptable approach
+1) Use the approach of hand division with multiplication factor of (256) instead of 10.<br>
+find modulus of each digit and multiply reminder by 256(1 char is 1 byte and 1 byte ~ (2^8)256 bits).<br>
+sum that to next digit and repeat

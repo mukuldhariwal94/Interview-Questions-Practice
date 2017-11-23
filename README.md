@@ -22,9 +22,10 @@ I highly recommend him for starters since he has strong explanation before divin
 #### Linked List - 
 [2] [Nth-to-last Linked List Element](https://www.youtube.com/watch?v=i7v1UWlaYrI&t)<br>
 [10] [Split a Linked List](https://www.youtube.com/watch?v=lMxYBLqt1Mg) <br>
-[14] [Palindromes](https://www.youtube.com/watch?v=Os5FM4KQtxw&t) REDO STACK PART
+[14] [Palindromes](https://www.youtube.com/watch?v=Os5FM4KQtxw&t) REDO STACK PART<br>
 [21] [Print Reversed Linked List](https://www.youtube.com/watch?v=IR2X5Mw3StY)<br>
-[35] [Dedup Linked List](https://www.youtube.com/watch?v=2X9cdj6Ng0w)
+[35] [Dedup Linked List](https://www.youtube.com/watch?v=2X9cdj6Ng0w)<br>
+[39] [Random Linked List](https://www.youtube.com/watch?v=xF9goDxk5nM)
 
 #### Stacks and Queues
 [5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU)<br>
@@ -54,17 +55,21 @@ I highly recommend him for starters since he has strong explanation before divin
 [30] [Swap Variables](https://www.youtube.com/watch?v=DtnH3V_Vjek)<br>
 [31] [Reverse Stack](https://www.youtube.com/watch?v=dQsZP8UvHVk)<br>
 [32] [Sum](https://www.youtube.com/watch?v=te4q1ivGons)
+[37] [Big Int Modulus](https://www.youtube.com/watch?v=5LCuroQltsc)
 
 ### Dynamic Programming
 
 [13] [Permutations](https://www.youtube.com/watch?v=IPWmrjE1_MU) I DONT GET IT YET<br>
 [22] [Longest Common Substring](https://www.youtube.com/watch?v=aVFWW3pBQFo) REDO <br>
+[40] [Square Submatrix](https://www.youtube.com/watch?v=NYeVhmWsWec)
 
 ### Recursion
 [3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
 [27] [Fibonacci Number](https://www.youtube.com/watch?v=Nki9hhW-tAI)<br>
 [33] [String Deletion](https://www.youtube.com/watch?v=A6fDK8Vc7-U) PENDING <br>
 
+### Graphs
+[41] [Shortest Path](https://www.youtube.com/watch?v=SmnUqWmWvz0) 
 
 ### Miscellaneous
 [1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)<br>
@@ -72,7 +77,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [8] [String Compression](https://www.youtube.com/watch?v=XMKMgzU1uiw)<br>
 [9] [Kth Most Frequent String](https://www.youtube.com/watch?v=HlBG2O8ydhw) REDO - MAJOR REDO <br/>
 [28] [Clock Angle](https://www.youtube.com/watch?v=LFAhxzqvyps)<br>
-[36] [Merge K Sorted Arrays](https://www.youtube.com/watch?v=6bvnZzwiKzs) PENDING
+[36] [Merge K Sorted Arrays](https://www.youtube.com/watch?v=6bvnZzwiKzs) PENDING<br>
+[42] [Two Missing Numbers](https://www.youtube.com/watch?v=75Jrba2uGFM)
 
 ### Software Design
 [25][Line Intersection](https://www.youtube.com/watch?v=OOtD38U5VWk) PENDING<br>
@@ -91,3 +97,5 @@ I highly recommend him for starters since he has strong explanation before divin
 * We can check size of queue/stack
 * Inside a method any changes to input object persists but if we swap the parameter object that does not persist after method is returned 
 * Loss in precision can happen due to static variables being of diff type
+* We can insert data in linkedlist based on index . If we add multiple values at same index
+it pushes the other items down the list in order it is inputted.(Check Graph problem)

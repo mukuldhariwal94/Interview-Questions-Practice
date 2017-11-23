@@ -92,6 +92,45 @@ Runtime (Kn * K). Which is worse than before
 ##### Lessons Learned:
 * Usage of priority queue and how first solution is not always best also sometimes second one also.
 
+##String Deletion
+##### Familiarity Rating 4
+##### Things to ask before diving into problem
 
+##### Acceptable approach
 
+##### Best Approach
+##### Lessons Learned:
+* Set does not have a remove method that removes top element in Set.Since set is an unordered list
 
+## Two Missing Numbers
+##### Familiarity Rating 6
+##### Things to ask before diving into problem
+* Does the seq include/exclude 0?
+* Are the values of input integer/long ? this affects the size of array and also overflow issue
+
+##### Acceptable approach
+1) Scenario of <b>1</b> missing number <br>
+    * Create an array of boolean and set them for true for every value found<br>
+    loop through the boolean array to find the false on<br>
+    Runtime O(n) Space 0(n)
+    * Sort the array and check the curr value with prev and if it not prev+1 there is the missing number<br>
+    Runtime O(n(logn)) . Space O(1).
+    This modifies input array if that is not acceptable then create copy with Space O(n)
+    * Find sum of all number between 1 & n. <br>
+      Find sum of all numbers in array and find the difference
+    * We can do XOR for above which is better than above one since we take care of overflow issue
+2) Scenario of <b>2</b> missing number <br>
+<b>This uses what we learnt from 1 missing number<br></b>
+Find the sum of ideal sequence i.e 1 to n<br>
+<b>cannot do XOR here since we will get XOR of 2 numbers </b><br>
+Find the sum of input sequence.<b><br>missingSum =  IdealSeqSum - inputSum<br></b>
+since we know each number is entered only once we can split it in half and one will be less than the half
+and other will be more than the half.<br>
+Now split ideal Seq into two sub arrays from 0 to missingSum/2 and missingSum/2+1 to n<br>
+Split the input at missing. find XOR of idealSeq and XOR with inputseq. This will give you one number.
+Deduct that from missingSum that gives you second num.
+
+##### Best Approach
+ (2) 
+##### Lessons Learned: 
+XOR can be used to avoid overflow in certain situation

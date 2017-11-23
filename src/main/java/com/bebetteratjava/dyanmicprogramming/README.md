@@ -12,3 +12,19 @@
 Dynamic Programming
 
 ##### Best Approach
+
+##Square Submatrix
+##### Familiarity Rating 5
+##### Things to ask before diving into problem
+* What is expected return value?
+* What is value of data in the matrix? T or F , 1 or 0 etc..?<br>
+This could raise question on weather we need to check input
+
+
+##### Not Acceptable approach
+Brute force  . Runtime 0(n^3)
+
+##### Acceptable approach
+Dynamic Programming
+
+##### Best Approach

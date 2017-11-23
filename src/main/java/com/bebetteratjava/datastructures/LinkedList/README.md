@@ -76,8 +76,30 @@ depends on size of list
 * What is stored in the linked List
 
 ##### Acceptable approach
-1) Using external data structure
-2) Without using external data structure
+1) Using external data structure [Set]
+2) Without using external data structure [double loop]
 
 ##### Best Approach
-either works a small twise can be to not use a prev variable.
+either works a small twist can be to not use a prev variable.
+
+##Random Linked List
+##### Familiarity Rating 6
+##### Things to ask before diving into problem
+* ask details about the structure of linked list
+* Can a random pointer point to itself?
+* What is going to be value in the list?
+* Can a random pointer be null?
+
+##### Acceptable approach
+1) Use a map to associate nodes between old and new list<br> 
+Create a new list with the random pointing to null<br>
+create a mapping of same node in old list to new list<br>
+do a second pass over the original list and for original val in map find the new node in mapping and set the random pointer to it.<br>
+
+2)Modify Original List<br>
+Create new nodes right after the ordinal with random pointing to null i.e 1st node is original and 2nd node is new list node <br>
+The next node in new list list will be one next to what orignial is pointing to<br>
+after all is said and done seprate the two list and return the head of new list
+
+
+##### Best Approach
