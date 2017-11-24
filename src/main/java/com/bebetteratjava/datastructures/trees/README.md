@@ -79,4 +79,19 @@ return the node back up the stack
 ##### Best Approach
 above
 
+## Random Binary Tree
+##### Familiarity Rating 7
+##### Things to ask before diving into problem
+* Is the BST implemented or do we need to implement in?<br>
+This can make the problem little easier
+
+##### Acceptable approach
+1) Create an array and store in all values in BST then return index based on random val<br>
+Runtime O(n) Space (n)
+2) Use DFS to traverse the tree and get the top value at end of rand count<br>
+Runtime O(n) Space O(1)
+3)
+##### Best Approach
+above
+
 

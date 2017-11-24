@@ -39,7 +39,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [19] [Balanced Binary Tree](https://www.youtube.com/watch?v=nOcFiGl5Vy4)<br>
 [24] [Longest Consecutive Branch](https://www.youtube.com/watch?v=r2Vn6ztdSP0)<br>
 [26] [Tree to Linked List](https://www.youtube.com/watch?v=Dte6EF1nHNo)<br>
-[34] [Lowest Common Ancestor](https://www.youtube.com/watch?v=zHP9vhpUKEQ)
+[34] [Lowest Common Ancestor](https://www.youtube.com/watch?v=zHP9vhpUKEQ)<br>
+[43] [Random Binary Tree](https://www.youtube.com/watch?v=nj5jFhglw8U)
 
 #### Arrays 1D & 2D
 [12] [N Stacks](https://www.youtube.com/watch?v=DxW7VAsdX0o) REDO <br>

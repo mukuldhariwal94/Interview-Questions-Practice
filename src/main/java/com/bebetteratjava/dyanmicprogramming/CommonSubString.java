@@ -25,7 +25,7 @@ public class CommonSubString {
                 }
             }
         }
-        System.out.println("Max Length common subbstring  is :"+out);
+        System.out.println("Max Length common substring  is :"+out);
         return  null;
     }
 
