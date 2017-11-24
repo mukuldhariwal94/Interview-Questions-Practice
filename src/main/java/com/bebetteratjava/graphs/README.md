@@ -15,3 +15,18 @@ Use BFS to traverse the graph.
 slight twist can be asked to print path from a to b
 
 ##### Best Approach
+
+
+##Build Order
+##### Familiarity Rating 3
+##### Things to ask before diving into problem
+
+##### Not Acceptable approach
+1) Brute force method 
+
+##### Acceptable approach
+2) Double iteration
+3) Using a topological sort approach
+
+##### Best Approach
+

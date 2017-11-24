@@ -47,7 +47,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [16] [Three Sum](https://www.youtube.com/watch?v=-AMHUdZc9ss)<br>
 [17] [Zero Sum Subarray](https://www.youtube.com/watch?v=hLcYp67wCcM)<br>
 [18] [Merge Arrays](https://www.youtube.com/watch?v=rZ9lcXCWSUg)<br>
-[29] [Matrix Search](https://www.youtube.com/watch?v=bK7BCWICvpQ)
+[29] [Matrix Search](https://www.youtube.com/watch?v=bK7BCWICvpQ)<br>
+[44] [Zero Matrix](https://www.youtube.com/watch?v=ZzpJgRvqSJQ) TODO
 
 ### Bit Manipulation
 [4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
@@ -70,7 +71,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [33] [String Deletion](https://www.youtube.com/watch?v=A6fDK8Vc7-U) PENDING <br>
 
 ### Graphs
-[41] [Shortest Path](https://www.youtube.com/watch?v=SmnUqWmWvz0) 
+[41] [Shortest Path](https://www.youtube.com/watch?v=SmnUqWmWvz0) <br>
+[46] [Build Order](https://www.youtube.com/watch?v=WqV-pxNUAYA)
 
 ### Miscellaneous
 [1] [FizBuzz](https://www.youtube.com/watch?v=c0OMPDLef08)<br>
@@ -79,7 +81,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [9] [Kth Most Frequent String](https://www.youtube.com/watch?v=HlBG2O8ydhw) REDO - MAJOR REDO <br/>
 [28] [Clock Angle](https://www.youtube.com/watch?v=LFAhxzqvyps)<br>
 [36] [Merge K Sorted Arrays](https://www.youtube.com/watch?v=6bvnZzwiKzs) PENDING<br>
-[42] [Two Missing Numbers](https://www.youtube.com/watch?v=75Jrba2uGFM)
+[42] [Two Missing Numbers](https://www.youtube.com/watch?v=75Jrba2uGFM)<br>
+[45] [Consecutive Array](https://www.youtube.com/watch?v=1t-082mMScY)TODO
 
 ### Software Design
 [25][Line Intersection](https://www.youtube.com/watch?v=OOtD38U5VWk) PENDING<br>
