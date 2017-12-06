@@ -134,3 +134,71 @@ Deduct that from missingSum that gives you second num.
  (2) 
 ##### Lessons Learned: 
 XOR can be used to avoid overflow in certain situation
+
+
+## AutoComplete 
+##### Familiarity Rating 4
+##### Things to ask before diving into problem
+* Is capitalization are a thing? 
+* Can we have things other than alphabets
+* <b>Prefix should trigger trie or prefix tree</b> 
+
+##### Brute force
+take the prefix and check each word in dictionary.<br>
+Runtime: O(D*N) [D is size of dictionary and N is size of prefix]
+
+##### Acceptable approach
+1. Create a trie Tree of the dictionary<br>
+    1. Each Node contains the complete word till that point<br>
+    2. A boolean indication if it is a word
+    3. A hashMap of all the children characters it has
+
+2. Once the dictionary is build . Enter the prefix and check if it in tree.If not return null as result.<br>
+3. If the prefix is in tree do a recursion on all children and add them to result if it is a word. 
+
+##### Best Approach
+above
+##### Lessons Learned: 
+
+## Roman Numerals 
+##### Familiarity Rating 4
+##### Things to ask before diving into problem
+* Ask for lot of examples if ur not familiar with roman numerals system.?
+* Range of numbers? Max is 1000(M). Usually same number is not repeated more than 3 times.
+i.e MMMDCD (3999)
+
+
+##### Brute force
+
+
+##### Acceptable approach
+1. Create an array of number and their roman number equivalent
+
+##### Best Approach
+above
+##### Lessons Learned: 
+
+## Find Duplicates 
+##### Familiarity Rating 5
+##### Things to ask before diving into problem
+* Does order of output matter?
+* The result contains the all the duplicates or just ones with duplicates?
+
+##### Brute force
+Go through the entire array for each integer and check if duplciates . Runtime O(n2)
+
+##### Acceptable approach
+1. Add elements in set . If an item exists in set then put it in result. Runtime O(n) . Space O(n)
+2. Sort the array and check if there is duplicates . Runtime O(n log n). Space O(1)
+3. we know that every value in array is going to be between 1 < x < leng(n) . <br>
+if we subtract 1 then values in array can be 0 < x < len(n) -1 . i.e index of array.<br>
+Take the value at an index and subtract 1 from it. Then go to that index and set the value to -ve if it is not already.<br>
+If we see the same value again at any other index we know it is a duplicate and we can add it to the result set.<br>
+Runtime O(N), Space O(1);
+
+##### Best Approach
+3.
+##### Lessons Learned: 
+Read the input very carefully any information is something that is to be considered.
+
+

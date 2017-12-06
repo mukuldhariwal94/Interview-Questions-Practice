@@ -25,7 +25,8 @@ I highly recommend him for starters since he has strong explanation before divin
 [14] [Palindromes](https://www.youtube.com/watch?v=Os5FM4KQtxw&t) REDO STACK PART<br>
 [21] [Print Reversed Linked List](https://www.youtube.com/watch?v=IR2X5Mw3StY)<br>
 [35] [Dedup Linked List](https://www.youtube.com/watch?v=2X9cdj6Ng0w)<br>
-[39] [Random Linked List](https://www.youtube.com/watch?v=xF9goDxk5nM)
+[39] [Random Linked List](https://www.youtube.com/watch?v=xF9goDxk5nM)<br>
+[47] [List Cycles](https://www.youtube.com/watch?v=dvOilHNRzZs)TODO
 
 #### Stacks and Queues
 [5] [Max Stack](https://www.youtube.com/watch?v=0bpDvc2VjPU)<br>
@@ -41,6 +42,7 @@ I highly recommend him for starters since he has strong explanation before divin
 [26] [Tree to Linked List](https://www.youtube.com/watch?v=Dte6EF1nHNo)<br>
 [34] [Lowest Common Ancestor](https://www.youtube.com/watch?v=zHP9vhpUKEQ)<br>
 [43] [Random Binary Tree](https://www.youtube.com/watch?v=nj5jFhglw8U)
+
 
 #### Arrays 1D & 2D
 [12] [N Stacks](https://www.youtube.com/watch?v=DxW7VAsdX0o) REDO <br>
@@ -82,7 +84,10 @@ I highly recommend him for starters since he has strong explanation before divin
 [28] [Clock Angle](https://www.youtube.com/watch?v=LFAhxzqvyps)<br>
 [36] [Merge K Sorted Arrays](https://www.youtube.com/watch?v=6bvnZzwiKzs) PENDING<br>
 [42] [Two Missing Numbers](https://www.youtube.com/watch?v=75Jrba2uGFM)<br>
-[45] [Consecutive Array](https://www.youtube.com/watch?v=1t-082mMScY)TODO
+[45] [Consecutive Array](https://www.youtube.com/watch?v=1t-082mMScY)TODO<br>
+[48] [Autocomplete](https://www.youtube.com/watch?v=NZ3lP33mXlY) REDO<br>
+[49] [Integer to Roman Numeral](https://www.youtube.com/watch?v=LBsvAwQbVdw)
+[50] [Find All Duplicates](https://www.youtube.com/watch?v=GeHOlt_QYz8)
 
 ### Software Design
 [25][Line Intersection](https://www.youtube.com/watch?v=OOtD38U5VWk) PENDING<br>

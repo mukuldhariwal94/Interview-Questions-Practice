@@ -103,3 +103,18 @@ after all is said and done seprate the two list and return the head of new list
 
 
 ##### Best Approach
+
+##List Cycles
+##### Familiarity Rating 8
+##### Things to ask before diving into problem
+* Is it a singly linked list or doubly linked list ?
+* Can we mark the nodes as we iterate through it?
+* Are we looking for cycles on Nodes(mem address) on value of node(data)?
+
+##### Acceptable approach
+1) Create a hashSet and if there is a cycle we can verify if it is in set.<br>
+Runtime O(n) Space O(n)
+2)Create two nodes slow pointer and fast pointer 
+
+##### Best Approach
+
