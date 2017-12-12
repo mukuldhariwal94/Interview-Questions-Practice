@@ -94,4 +94,15 @@ Runtime O(n) Space O(1)
 ##### Best Approach
 above
 
+## Inorder Traversal
+##### Familiarity Rating 7
+##### Things to ask before diving into problem
+
+##### Acceptable approach
+1)Use a Stack to populate till left most node of any tree.<br>
+Once there are no more left pop the next element which is root<br>
+Next push the right node in stack and repeat from start
+
+##### Best Approach
+above
 

@@ -65,7 +65,8 @@ I highly recommend him for starters since he has strong explanation before divin
 
 [13] [Permutations](https://www.youtube.com/watch?v=IPWmrjE1_MU) I DONT GET IT YET<br>
 [22] [Longest Common Substring](https://www.youtube.com/watch?v=aVFWW3pBQFo) REDO <br>
-[40] [Square Submatrix](https://www.youtube.com/watch?v=NYeVhmWsWec)
+[40] [Square Submatrix](https://www.youtube.com/watch?v=NYeVhmWsWec)<br>
+[51] [Matrix Product](https://www.youtube.com/watch?v=lf2w3C82jYA)
 
 ### Recursion
 [3] [Smallest Change](https://www.youtube.com/watch?v=qH7fVuYlOOc) REDO <br/>
@@ -86,7 +87,7 @@ I highly recommend him for starters since he has strong explanation before divin
 [42] [Two Missing Numbers](https://www.youtube.com/watch?v=75Jrba2uGFM)<br>
 [45] [Consecutive Array](https://www.youtube.com/watch?v=1t-082mMScY)TODO<br>
 [48] [Autocomplete](https://www.youtube.com/watch?v=NZ3lP33mXlY) REDO<br>
-[49] [Integer to Roman Numeral](https://www.youtube.com/watch?v=LBsvAwQbVdw)
+[49] [Integer to Roman Numeral](https://www.youtube.com/watch?v=LBsvAwQbVdw)<br>
 [50] [Find All Duplicates](https://www.youtube.com/watch?v=GeHOlt_QYz8)
 
 ### Software Design
