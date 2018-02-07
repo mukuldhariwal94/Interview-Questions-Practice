@@ -15,6 +15,12 @@ practicing interview questions by a youtuber [Byte By Byte](https://www.youtube.
 
 I highly recommend him for starters since he has strong explanation before diving in code. 
 
+This comprises of the first 50 problems you see in here.Once you have had a good grip on it we can move to more complete 
+set of problems. I highly recommend [iDeserve](https://www.ideserve.co.in/) . They have a fair bit of questions and 
+things are split in various categories.
+
+
+
 ## Contents
 
 ### Data Structures
@@ -50,7 +56,9 @@ I highly recommend him for starters since he has strong explanation before divin
 [17] [Zero Sum Subarray](https://www.youtube.com/watch?v=hLcYp67wCcM)<br>
 [18] [Merge Arrays](https://www.youtube.com/watch?v=rZ9lcXCWSUg)<br>
 [29] [Matrix Search](https://www.youtube.com/watch?v=bK7BCWICvpQ)<br>
-[44] [Zero Matrix](https://www.youtube.com/watch?v=ZzpJgRvqSJQ) TODO
+[44] [Zero Matrix](https://www.youtube.com/watch?v=ZzpJgRvqSJQ) TODO<br>
+##### I Deserve<br>
+[52] [Longest Consecutive In Array](https://www.ideserve.co.in/learn/longest-subset-with-consecutive-numbers)<br> 
 
 ### Bit Manipulation
 [4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
@@ -58,7 +66,7 @@ I highly recommend him for starters since he has strong explanation before divin
 [20] [Gray Number](https://www.youtube.com/watch?v=LqxtPV8xKeI)<br>
 [30] [Swap Variables](https://www.youtube.com/watch?v=DtnH3V_Vjek)<br>
 [31] [Reverse Stack](https://www.youtube.com/watch?v=dQsZP8UvHVk)<br>
-[32] [Sum](https://www.youtube.com/watch?v=te4q1ivGons)
+[32] [Sum](https://www.youtube.com/watch?v=te4q1ivGons) <br>
 [37] [Big Int Modulus](https://www.youtube.com/watch?v=5LCuroQltsc)
 
 ### Dynamic Programming
@@ -85,7 +93,7 @@ I highly recommend him for starters since he has strong explanation before divin
 [28] [Clock Angle](https://www.youtube.com/watch?v=LFAhxzqvyps)<br>
 [36] [Merge K Sorted Arrays](https://www.youtube.com/watch?v=6bvnZzwiKzs) PENDING<br>
 [42] [Two Missing Numbers](https://www.youtube.com/watch?v=75Jrba2uGFM)<br>
-[45] [Consecutive Array](https://www.youtube.com/watch?v=1t-082mMScY)TODO<br>
+[45] [Consecutive Array](https://www.youtube.com/watch?v=1t-082mMScY) DONE  See 52<br>
 [48] [Autocomplete](https://www.youtube.com/watch?v=NZ3lP33mXlY) REDO<br>
 [49] [Integer to Roman Numeral](https://www.youtube.com/watch?v=LBsvAwQbVdw)<br>
 [50] [Find All Duplicates](https://www.youtube.com/watch?v=GeHOlt_QYz8)
