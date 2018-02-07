@@ -145,10 +145,9 @@ Brute force
 1) Sort the array and check if next element is expected next element
 2) Store all data in a HashSet and check if prev is in set if so skip otherwise 
 that is the start of your sequence.At end store the end of sequence and lenght and 
-populate an array and return
+populate an array and return.
 
 ##### Best Approach
 3rd approach.
 
-##### TODO 
-Find the location of an element in sorted matrix which can hve duplicates
+

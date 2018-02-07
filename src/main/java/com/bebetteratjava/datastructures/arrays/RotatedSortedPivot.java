@@ -22,7 +22,7 @@ public class RotatedSortedPivot {
     }
 
     public static void main(String args[]){
-        int[] input = new int[]{4,5,6,7,1,2,3};
+        int[] input = new int[]{5,6,7,1,2,3,4};
         int result = pivotElement(input);
         System.out.println(result);
     }

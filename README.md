@@ -58,8 +58,7 @@ things are split in various categories.
 [29] [Matrix Search](https://www.youtube.com/watch?v=bK7BCWICvpQ)<br>
 [44] [Zero Matrix](https://www.youtube.com/watch?v=ZzpJgRvqSJQ) TODO<br>
 ##### I Deserve<br>
-[52] [Longest Consecutive In Array](https://www.ideserve.co.in/learn/longest-subset-with-consecutive-numbers)<br> 
-
+[52] [Longest Consecutive In Array](https://www.ideserve.co.in/learn/longest-subset-with-consecutive-numbers)<br>
 ### Bit Manipulation
 [4] [Number of Ones in Binary](https://www.youtube.com/watch?v=8iWIpkFgZ64)<br>
 [15] [Rotate Bits](https://www.youtube.com/watch?v=uDqUb50Bmvs) <br>
